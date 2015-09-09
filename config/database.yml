@@ -26,4 +26,6 @@ development:
 
 production:
   <<: *default
+  username: ljapldaukkpbjm
+  password: jHzYYxjcJZxxlTvs7q2qRsvFgl
   database: myapp_production
